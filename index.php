@@ -16,7 +16,7 @@
         <input type="submit">
         <?php
 echo $_POST['table'];
-?>Hello mamey 
+?>Hello mamey  k
 >?
     </form>
 </body>
